@@ -25,32 +25,23 @@ A curated list of web3 resources
 
 ## Web3 Jobs
 
-*Web3 Jobs*
+*Web3 Jobs Websites*
 
 * [Web3 Career](https://web3.career/)
-* [Reverse Engineering for Beginners](http://beginners.re/)
-* [Assembly Language for Intel-Based Computers (5th Edition) ](http://a.co/4OR6I9U)
-* [Practical Reverse Engineering](http://amzn.com/B00IA22R2Y)
-* [Reversing: Secrets of Reverse Engineering](http://amzn.com/B007032XZK)
-* [Practical Malware Analysis](http://amzn.com/1593272901)
-* [Malware Analyst's Cookbook](http://amzn.com/B0047DWCMA)
-* [Gray Hat Hacking](http://amzn.com/0071832386)
-* [The Art of Memory Forensics](http://amzn.com/1118825098)
-* [Hacking: The Art of Exploitation](http://amzn.com/1593271441)
-* [Fuzzing for Software Security](http://amzn.com/1596932147)
-* [Art of Software Security Assessment](http://amzn.com/0321444426)
-* [The Antivirus Hacker's Handbook](http://amzn.com/1119028752)
-* [The Rootkit Arsenal](http://amzn.com/144962636X)
-* [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
-* [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
-* [The Shellcoders Handbook](http://a.co/6H55943)
-* [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
-* [Agner's software optimization resources](http://www.agner.org/optimize/)
-* [Learning Malware Analysis](https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate/dp/1788392507/)
-* [Binary Analysis](https://nostarch.com/binaryanalysis)
-* [Rootkits and Bootkits](https://nostarch.com/rootkits)
-* [Serious Cryptography](https://nostarch.com/seriouscrypto)
+* [Crypto Careers](https://www.crypto-careers.com/)
+* [CryptoJobsList](https://cryptojobslist.com/)
+* [CryptocurrencyJobs](https://cryptocurrencyjobs.co/)
+* [CryptoJobs](https://crypto.jobs/)
+* [Remote3](https://remote3.co/)
+* [Froog](https://froog.co/)
+* [Anon Friendly](https://anonfriendly.com/)
+* [Proof Of Talent](https://proofoftalent.co/home/crypto-recruiters)
+* [Bankless](https://bankless.pallet.com/jobs)
+* [The DeFi Edge](https://thedefiedge.pallet.com/jobs)
+
+*Grants & Bug Bounties & Quests*
+
+
 
 ## Courses
 
