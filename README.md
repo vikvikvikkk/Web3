@@ -1,6 +1,6 @@
 # web3-non-tech    
 
-A curated list of web3 resources   
+Content  
 
 - [Web3 Non-Tech](#web3-non-tech)
     - [Web3 Jobs](#web3-jobs)
