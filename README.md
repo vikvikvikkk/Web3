@@ -41,7 +41,19 @@ Content
 
 *Grants & Bug Bounties & Quests*
 
+* [Immunefi](https://immunefi.com/)
+* [Gitcoin](https://gitcoin.co/)
+* [Tr3butor](https://app.tr3butor.io/)
+* [Questbook](https://www.questbook.app/)
+* [Code4rena](https://code4rena.com/)
 
+*Useful*
+
+* [“How I ended up with the role of Nansen Intern”](https://twitter.com/nansen_intern/status/1527638540472922112?s=21&t=ghPHXG5pr6WcRzI4fk032g)
+* [Gitcoin](https://gitcoin.co/)
+* [Tr3butor](https://app.tr3butor.io/)
+* [Questbook](https://www.questbook.app/)
+* [Code4rena](https://code4rena.com/)
 
 ## Courses
 
