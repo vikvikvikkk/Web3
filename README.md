@@ -67,9 +67,9 @@ Content
 * [Tranqui Tracker](https://docs.google.com/document/d/1CvVPKygjscsmQU_EqfypoKfDE4Lih4UoyBnmVXdBT5Y/edit?mode=html)
 * [“Here’s how Crypto Influencers Make Money from you”](https://twitter.com/thedefiedge/status/1499415171365625864)
 * [Know Your Worth in Web3](https://mirror.xyz/wib.eth/AcSHQiNAZBi_49fO0-nEC4ej6uuph_ssg42kfmYDnt8)
-* [Tr3butor](https://app.tr3butor.io/)
-* [Questbook](https://www.questbook.app/)
-* [Code4rena](https://code4rena.com/)
+* [Working In Web3](https://clavisxyz.notion.site/Working-In-Web3-7c4d88bc881f46e48d5e866de95715f0)
+* [Transition to web3: a guide for non-technical roles](https://guidetoweb3.xyz/)
+* [Going full-time in crypto](https://koopxyz.notion.site/going-full-time-in-crypto-ae5a87183702414d8db348634f3a2b7f)
 
 ## Courses
 
