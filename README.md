@@ -38,6 +38,12 @@ Content
 * [Proof Of Talent](https://proofoftalent.co/home/crypto-recruiters)
 * [Bankless](https://bankless.pallet.com/jobs)
 * [The DeFi Edge](https://thedefiedge.pallet.com/jobs)
+* [Lobsters HR](https://t.me/lobsters_hr)
+* [Ethereum Jobs](https://t.me/ethereum_hh)
+* [Stablegram — Web3 Jobs](https://t.me/stablegram)
+* [Web3 Opps](https://t.me/cryptotesters_jobs)
+* [Daily Ape Board](https://t.me/dailyapeboard)
+* [Sov's Jobs](https://sovs.notion.site/Jobs-7062a940fb8548edb075171881a5d2b9)
 
 *Grants & Bug Bounties & Quests*
 
