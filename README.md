@@ -4,7 +4,7 @@ Content
 
 - [Web3 Non-Tech](#web3-non-tech)
     - [Web3 Jobs](#web3-jobs)
-    - [Courses](#courses)
+    - [Mix Of Everything](#mix-of-everything)
     - [Channels](#channels)
     - [Practice](#practice)
     - [Hex Editors](#hex-editors)
