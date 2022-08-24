@@ -101,6 +101,19 @@ Content
 * [Curve 2-coin Sumulator](https://www.desmos.com/calculator/mbocz299dv?lang=fr)
 * [WhatToMine](https://whattomine.com/)
 * [TradingView](https://www.tradingview.com/)
+* [DefiLlama](https://defillama.com/)
+* [DappRadar](https://dappradar.com/)
+* [Hot Contracts](https://hotcontracts.app/)
+* [ICO Drops](https://icodrops.com/)
+* [DropsEarn](https://dropsearn.com/)
+* [Messari](https://messari.io/)
+* [CoinGecko](https://www.coingecko.com/en)
+* [CoinMarketCap](https://coinmarketcap.com/)
+* [CryptoQuant](https://cryptoquant.com/)
+* [Parsec](https://app.parsec.finance/)
+* [VestLab](https://vestlab.io/)
+* [CoinsGuru](https://coinsguru.io/)
+* [BSCheck](https://www.bscheck.eu/)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
@@ -108,7 +121,10 @@ Content
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
-* 
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 
 ## Channels
 
