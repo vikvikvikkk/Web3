@@ -55,7 +55,7 @@ Content
 * [LlamaoGrants](https://wiki.defillama.com/wiki/LlamaoGrants)
 * [Layer3](https://beta.layer3.xyz/earn)
 
-*To Learn*
+*Read & Learn*
 
 * [Pentacle](https://pentacle.xyz/)
 * [Rabbithole](https://rabbithole.gg/)
