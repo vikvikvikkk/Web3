@@ -76,12 +76,19 @@ Content
 * [Some Summer Reads From a16z Crypto](https://twitter.com/a16z/status/1545802798637453312?s=21&t=wOeYmB8TJzizVAqYSQbdZw)
 * [Reading Ressources For Crypto](https://readingressourcescrypto.notion.site/readingressourcescrypto/Reading-ressources-for-crypto-4fb8f4170e9242fd87e85f5ca75ebdb5)
 * [10 Great Threads About Crypto That Will Help You Become A Better Investor](https://twitter.com/Route2FI/status/1510601006509350921)
+* [Compilation Of All Threads By @shuennnyyy](https://twitter.com/shuennnyyy/status/1408282762272935939)
+* [Information And Learning Resources For Cryptography Newcomers](https://www.reddit.com/r/cryptography/comments/scb6pm/information_and_learning_resources_for/)
 * [Immunefi](https://immunefi.com/)
 * [Immunefi](https://immunefi.com/)
 * [Immunefi](https://immunefi.com/)
 * [Immunefi](https://immunefi.com/)
 * [Immunefi](https://immunefi.com/)
-* 
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
 
 *Useful*
 
