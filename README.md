@@ -53,6 +53,35 @@ Content
 * [Questbook](https://www.questbook.app/)
 * [Code4rena](https://code4rena.com/)
 * [LlamaoGrants](https://wiki.defillama.com/wiki/LlamaoGrants)
+* [Layer3](https://beta.layer3.xyz/earn)
+
+*To Learn*
+
+* [Pentacle](https://pentacle.xyz/)
+* [Rabbithole](https://rabbithole.gg/)
+* [ETH Wiki](https://eth.wiki/)
+* [Finematics](https://finematics.com/)
+* [LearnWeb3 Dao](https://www.learnweb3.io/)
+* [Based.Builders](https://based.builders/)
+* [Crypto Startup School by a16z](https://a16z.com/crypto-startup-school/)
+* [arXiv](https://arxiv.org/)
+* [Decentralized Thoughts](https://decentralizedthoughts.github.io/start-here/)
+* [Decentralization Reading List](https://hackmd.io/@wr417h/r1W9N9zO9)
+* [Ten Places To Learn And Earn In Web3](https://immunefi.com/)
+* [Springer](https://link.springer.com/)
+* [NoSleep Reads](https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b)
+* [Monday DeFi Market Alpha](https://docs.google.com/document/d/165IbUhkabquj3tL0LruLCnhhUXXTN5pWFDdtr-J7Cmg/edit?mode=html#)
+* [Airtable Reading List](https://airtable.com/shr2ixMcHCXLjZ4M6/tblMsFhcoHFiDByGj)
+* [Airtable Reading List (2)](https://airtable.com/shraQiFHFxU7rm7Wv/tblBVGLgh1XQpun1b?s=09)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* [Immunefi](https://immunefi.com/)
+* 
 
 *Useful*
 
