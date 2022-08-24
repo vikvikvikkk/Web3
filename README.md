@@ -78,17 +78,9 @@ Content
 * [10 Great Threads About Crypto That Will Help You Become A Better Investor](https://twitter.com/Route2FI/status/1510601006509350921)
 * [Compilation Of All Threads By @shuennnyyy](https://twitter.com/shuennnyyy/status/1408282762272935939)
 * [Information And Learning Resources For Cryptography Newcomers](https://www.reddit.com/r/cryptography/comments/scb6pm/information_and_learning_resources_for/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
-* [Immunefi](https://immunefi.com/)
+* [The Chainalysis State of Web3 Report](https://go.chainalysis.com/rs/503-FAP-074/images/state-of-web3.pdf)
+* [Tweets](https://arpitingle.notion.site/arpitingle/64d12c6b859d4872972f76da2f3caddf?v=d188d771df344a2c85237e8c7e13e189)
+* [A Curated List Of Cryptography Papers, Articles, Tutorials And Howtos](https://github.com/pFarb/awesome-crypto-papers)
 
 *Useful*
 
