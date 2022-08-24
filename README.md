@@ -46,11 +46,21 @@ Content
 * [Tr3butor](https://app.tr3butor.io/)
 * [Questbook](https://www.questbook.app/)
 * [Code4rena](https://code4rena.com/)
+* [LlamaoGrants](https://wiki.defillama.com/wiki/LlamaoGrants)
 
 *Useful*
 
 * [“How I ended up with the role of Nansen Intern”](https://twitter.com/nansen_intern/status/1527638540472922112?s=21&t=ghPHXG5pr6WcRzI4fk032g)
-* [Gitcoin](https://gitcoin.co/)
+* [“How to Land a High Paying Job in Crypto w/ Rob Paone”](https://twitter.com/venturecoinist/status/1531013322862100484?s=21&t=LqKOzeY0VpYUZRzDFZeeLw)
+* [Web3 salary transparency (Responses)](https://docs.google.com/spreadsheets/d/1N_9qv9FiNfozUx1vQDOPGj7lMvkKagxLslNWx8dcJ6A/edit#gid=2111719125)
+* [Working in Web3: The Handbook](https://web3.smsunarto.com/)
+* [“So, how do you find a role in a bear market?”](https://twitter.com/cryptoclayman/status/1532867332376129538?s=21&t=zxgJT8P1SvneTftveblAhw)
+* [“Building Trust and Assessing Integrity as You Interview”](https://future.com/building-trust-and-assessing-integrity-as-you-interview/?utm_medium=email&utm_source=newsletter&mkt_tok=MzgyLUpaQi03OTgAAAGEzmuR8jBjovWSj7tAn2IgaudzooNL3BjA1GgTQCrVKUo3fTp4Wq719dvle3t568poz1kEHcSsr-ntbh0GMQwpPvVROn3uz8aO02ofTuH9UBDC)
+* [“Here’s a step-by-step playbook for landing a web3 job / Community Edition”](https://twitter.com/FusePass/status/1539068549485821952?t=VfuF_QarmpEzAhrDTTOCyQ&s=19)
+* [“Public experiment exploring how to become a web3 developer with no prior coding experience”](https://twitter.com/0xTranqui/status/1488289962604773386)
+* [Tranqui Tracker](https://docs.google.com/document/d/1CvVPKygjscsmQU_EqfypoKfDE4Lih4UoyBnmVXdBT5Y/edit?mode=html)
+* [“Here’s how Crypto Influencers Make Money from you”](https://twitter.com/thedefiedge/status/1499415171365625864)
+* [Know Your Worth in Web3](https://mirror.xyz/wib.eth/AcSHQiNAZBi_49fO0-nEC4ej6uuph_ssg42kfmYDnt8)
 * [Tr3butor](https://app.tr3butor.io/)
 * [Questbook](https://www.questbook.app/)
 * [Code4rena](https://code4rena.com/)
