@@ -67,7 +67,7 @@ Content
 * [arXiv](https://arxiv.org/)
 * [Decentralized Thoughts](https://decentralizedthoughts.github.io/start-here/)
 * [Decentralization Reading List](https://hackmd.io/@wr417h/r1W9N9zO9)
-* [Ten Places To Learn And Earn In Web3](https://immunefi.com/)
+* [Ten Places To Learn And Earn In Web3](https://medium.com/coinmonks/ten-places-to-learn-and-in-in-web3-b37fae5ac78d)
 * [Springer](https://link.springer.com/)
 * [NoSleep Reads](https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b)
 * [Monday DeFi Market Alpha](https://docs.google.com/document/d/165IbUhkabquj3tL0LruLCnhhUXXTN5pWFDdtr-J7Cmg/edit?mode=html#)
@@ -81,6 +81,7 @@ Content
 * [The Chainalysis State of Web3 Report](https://go.chainalysis.com/rs/503-FAP-074/images/state-of-web3.pdf)
 * [Tweets](https://arpitingle.notion.site/arpitingle/64d12c6b859d4872972f76da2f3caddf?v=d188d771df344a2c85237e8c7e13e189)
 * [A Curated List Of Cryptography Papers, Articles, Tutorials And Howtos](https://github.com/pFarb/awesome-crypto-papers)
+* [Basic Skill Tree For Those Looking To Get Into Crypto](https://twitter.com/Darrenlautf/status/1434877372700901384)
 
 *Useful*
 
