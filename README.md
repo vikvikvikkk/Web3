@@ -271,6 +271,36 @@ Content
 * [Rubic](https://app.rubic.exchange/)
 * [Rubic](https://app.rubic.exchange/)
 
+*Bridges*
+
+* [Blockchain Bridges Mega Spreadsheet](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
+* [Bridgooooooors](https://docs.google.com/spreadsheets/u/1/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/htmlview?pru=AAABfpgt8Vk*FQKIlSzyejx522FoNPCf3w#gid=0)
+* [More Bridges](https://app.decommas.io/bridges)
+* [Moooore](https://glimmer-hovercraft-39e.notion.site/Bridges-List-7829592792a9478c9bcb57c8a696c9e2)
+* [Boost Your Bridge Knowledge](https://twitter.com/arjunnchand/status/1529524823268786176)
+* [Inter-Bridge Explorer](https://www.bridgeexplorer.xyz/)
+* [Bridge Away (L1 Ethereum)](https://dune.com/eliasimos/Bridge-Away-(from-Ethereum))
+* ["What's Wrong With Bridges?"](https://antiape.substack.com/p/whats-wrong-with-bridges-and-whats?s=w)
+
+*More Useful Resources*
+
+* [Blockchain Bridges Mega Spreadsheet](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
+* [Bridgooooooors](https://docs.google.com/spreadsheets/u/1/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/htmlview?pru=AAABfpgt8Vk*FQKIlSzyejx522FoNPCf3w#gid=0)
+* [More Bridges](https://app.decommas.io/bridges)
+* [Moooore](https://glimmer-hovercraft-39e.notion.site/Bridges-List-7829592792a9478c9bcb57c8a696c9e2)
+* [Boost Your Bridge Knowledge](https://twitter.com/arjunnchand/status/1529524823268786176)
+* [Inter-Bridge Explorer](https://www.bridgeexplorer.xyz/)
+* [Bridge Away (L1 Ethereum)](https://dune.com/eliasimos/Bridge-Away-(from-Ethereum))
+* ["What's Wrong With Bridges?"](https://antiape.substack.com/p/whats-wrong-with-bridges-and-whats?s=w)
+* [Blockchain Bridges Mega Spreadsheet](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
+* [Bridgooooooors](https://docs.google.com/spreadsheets/u/1/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/htmlview?pru=AAABfpgt8Vk*FQKIlSzyejx522FoNPCf3w#gid=0)
+* [More Bridges](https://app.decommas.io/bridges)
+* [Moooore](https://glimmer-hovercraft-39e.notion.site/Bridges-List-7829592792a9478c9bcb57c8a696c9e2)
+* [Boost Your Bridge Knowledge](https://twitter.com/arjunnchand/status/1529524823268786176)
+* [Inter-Bridge Explorer](https://www.bridgeexplorer.xyz/)
+* [Bridge Away (L1 Ethereum)](https://dune.com/eliasimos/Bridge-Away-(from-Ethereum))
+* ["What's Wrong With Bridges?"](https://antiape.substack.com/p/whats-wrong-with-bridges-and-whats?s=w)
+
 ## Binary Format
 
 *Binary Format Tools*
