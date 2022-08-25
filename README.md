@@ -221,19 +221,19 @@ Content
 * [~300 US focused Web3 VC Funds List](https://docs.google.com/spreadsheets/d/1MvVLkUng7dfzgBHsnTjYwpXwmDUWdzCnlHfGsld3cLk/edit#gid=0)
 
 
-## Practice
+## Tokenomics
 
-*Practice Reverse Engineering.  Be careful with malware.*
+*Everything you should know about tokenomics*
 
-* [Crackmes.de](http://www.crackmes.de/)
-* [OSX Crackmes](https://reverse.put.as/crackmes/)
-* [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
-* [Flare-on Challenges](http://flare-on.com/)
-* [Github CTF Archives](http://github.com/ctfs/)
-* [Reverse Engineering Challenges](http://challenges.re/)
-* [xorpd Advanced Assembly Exercises](http://www.xorpd.net/pages/xchg_rax/snip_00.html)
-* [Virusshare.com](http://virusshare.com/)
-* [Contagio](http://contagiodump.blogspot.com/)
+* [A Curated Tokenomics Reading List by Émerick Mary](https://emerickmary.notion.site/emerickmary/450d4d5220ac4d438f91fcb871acd31e?v=8ba6b8d5277a4aaa83944a22e2339123)
+* [Tokenomics](https://jbln-crypto.notion.site/Tokenomics-d14ec4c9ec5e488f9796c8f5d5870ebb)
+* [Tokenomics 101: The Basics of Evaluating Cryptocurrencies](https://every.to/almanack/tokenomics-101?utm_source=pocket_mylist)
+* [Tokenomics DAO](https://tokenomicsdao.com/)
+* [The Daily Ape - Tokenomics](https://thedailyape.notion.site/Tokenomics-458683e63ab34f4b8a0ed442946883d8)
+* [Token Economics Resource List](https://docs.google.com/spreadsheets/d/1_py70Ic2u91VILJWCA7AMOXVZmmTv-zGo-LPr3PhDvM/edit#gid=2065938169)
+* [Economics And Math Of Token Engineering And DeFi](https://drive.google.com/file/d/1aV38iSkwFLa5FxyN8YahTVr9t9DICNmD/view)
+* [veTokenomics Explained](https://perpprotocol.mirror.xyz/GzzvxvNFeTjH9au6cllJ_4ffshySn3M3iAmKe34sxdw)
+* [100 Questions You Should Ask Yourself When Analyzing Tokenomics](https://twitter.com/kinaumov/status/1545785921085341696)
 * [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
 * [Malshare](http://malshare.com/)
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
