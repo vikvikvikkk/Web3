@@ -332,7 +332,7 @@ Content
 
 ## Arbitrage, MEV, On-Chain
 
-*Arbitrage & MEV Resources*
+*Arbitrage & MEV*
 
 * [EigenPhi](https://eigenphi.io/)
 * [Monetory](https://monetory.io/)
@@ -345,6 +345,32 @@ Content
 * [Tenderly](https://dashboard.tenderly.co/explorer)
 * [TxStreet](https://txstreet.com/v/eth-btc)
 * [Sandwich Calculator](https://www.defi-sandwi.ch/)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+
+*Useful*
+
+* [Flashbots For Ethereum Consensus Clients](https://hackmd.io/@paulhauner/H1XifIQ_t)
+* [MEV-Boost: Merge Ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)
+* [Proposer/Block Builder Separation-Friendly Fee Market Designs](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725)
+* [MEV-Boost Allows Proof-Of-Stake Ethereum Consensus Clients To Outsource Block Construction](https://github.com/flashbots/mev-boost)
+* [MEV-Boost Workshop](https://hackmd.io/70AnBNnKTbGe3D5kT8x9ZA)
+* [Turning ~11 ETH to 862 ETH In 33 days Flipping NFTs - A Thread](https://twitter.com/mevcollector/status/1434039069743271937?s=28&t=CNDvxENlEb5Qupm16LjXKg)
+* [Setup Notifications For Blockchain Transactions With Tenderly](https://medium.com/iearn/setup-notifications-for-blockchain-transactions-with-tenderly-407a3df6e1ba)
+* ["DEX Arbitrage, Mathematical Optimisations & Me"](https://twitter.com/noxx3xxon/status/1561736027441602560)
+* [Short Thread On The History Of MEV Related Consensus Changes In Avalanchego](https://twitter.com/samlafer/status/1559087867581779969)
+* ["Another Bottle of Milk, Please"](https://mirror.xyz/antidegendegenclub.eth/SXjiK8D-ZOuRNtMtV8JYanB7wOz6jIAzoVMeFhaEPkI)
+* [MEV Capturing AMM (McAMM)](https://ethresear.ch/t/mev-capturing-amm-mcamm/13336)
+* [Maximal Extractable Value (MEV)](https://ethereum.org/en/developers/docs/mev/#:~:text=Maximal%20extractable%20value%20(MEV)%20refers,of%20transactions%20in%20a%20block)
+* [Ethereum Is A Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+* [Flashbots Eth2/MEV-Boost Relay](https://github.com/flashbots/mev-boost-relay)
+* ["I Made Over $15,000 Arbitraging Cryptocurrencies In May"](https://twitter.com/omgitsinfy/status/1558437872763514881?t=-3NIVPGrJANgJTK4tLt7QA&s=1)
+* [MEV Bots & Uniswap Implicit Assumptions](https://blog.alphaventuredao.io/mev-bots-uniswap-implicit-assumptions/)
+* [Cyclic Arbitrage In Decentralized Exchanges](https://arxiv.org/pdf/2105.02784.pdf)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
 * [TxStreet](https://txstreet.com/v/eth-btc)
 * [TxStreet](https://txstreet.com/v/eth-btc)
 * [TxStreet](https://txstreet.com/v/eth-btc)
