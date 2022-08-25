@@ -339,11 +339,15 @@ Content
 * [MEV Explore](https://explore.flashbots.net/)
 * [Transaction Decoder](https://etherscan.io/tx-decoder?tx=)
 * [Zeromev](https://www.zeromev.org/)
-* [PPEE](https://www.mzrst.com/)
-* [MachoView](https://github.com/gdbinit/MachOView)
-* [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
-* [file](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/file.1.html) - File information
-* [codesign](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) - Code signing information usage: codesign -dvvv filename
+* [Public MEV Explorer](https://metablock.dev/tools/mev/)
+* [Ultra Sound Money](https://ultrasound.money/)
+* [Laika](https://web.getlaika.app/)
+* [Tenderly](https://dashboard.tenderly.co/explorer)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [Sandwich Calculator](https://www.defi-sandwi.ch/)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
 
 
 ## Disassemblers/Decompilers
