@@ -345,9 +345,6 @@ Navigation
 * [Tenderly](https://dashboard.tenderly.co/explorer)
 * [TxStreet](https://txstreet.com/v/eth-btc)
 * [Sandwich Calculator](https://www.defi-sandwi.ch/)
-* [TxStreet](https://txstreet.com/v/eth-btc)
-* [TxStreet](https://txstreet.com/v/eth-btc)
-* [TxStreet](https://txstreet.com/v/eth-btc)
 
 *Useful*
 
