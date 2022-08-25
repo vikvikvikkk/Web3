@@ -6,7 +6,7 @@ Content
     - [Learn & Jobs Resources](#learn-and-jobs-resources)
     - [Mix Of Everything](#mix-of-everything)
     - [Funds](#funds)
-    - [Practice](#practice)
+    - [Tokenomics](#tokenomics)
     - [Hex Editors](#hex-editors)
     - [Binary Format](#binary-format)
     - [Disassemblers](#disassemblers)
@@ -234,11 +234,13 @@ Content
 * [Economics And Math Of Token Engineering And DeFi](https://drive.google.com/file/d/1aV38iSkwFLa5FxyN8YahTVr9t9DICNmD/view)
 * [veTokenomics Explained](https://perpprotocol.mirror.xyz/GzzvxvNFeTjH9au6cllJ_4ffshySn3M3iAmKe34sxdw)
 * [100 Questions You Should Ask Yourself When Analyzing Tokenomics](https://twitter.com/kinaumov/status/1545785921085341696)
-* [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
-* [Malshare](http://malshare.com/)
-* [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
-* [malwr.com](https://malwr.com/)
-* [vxvault](http://vxvault.net/)
+* [10 Must-Reads For Those Wanting To Dig Deeper Into Tokenomics](https://twitter.com/0xSong/status/1514155500258017283)
+* [Introduction to Tokenomics](https://medium.com/borderless-capital/introduction-to-tokenomics-c7af75c09bfe)
+* [Designing Token Economies](https://www.notboring.co/p/designing-token-economies?s=w)
+* [Tokenomics Google Doc](https://docs.google.com/document/d/1UkAcL7-KAWANKWnebYemA-4bTXC0m9RKrV19aIoFKdY/edit?mode=html#heading=h.f1o44ntj9vx9)
+* [Intro to Tokenomics Resources](https://docs.google.com/document/d/1gTPIQMLVcv_OQ8flblVTCWWfrGadQNxZXNZTvDh6iKA/edit?mode=html)
+* ["DeFi Tokenomics That Actually Work"](https://twitter.com/puntium/status/1552670248070832129)
+* [De-Fi 101: Tokens](https://twitter.com/SalomonCrypto/status/1543330112900239360?s=20&t=2AIp7GXZkfBhCqXj8SAkIQ)
 
 ## Hex Editors
 
