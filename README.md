@@ -213,9 +213,9 @@ Content
 *Resources*
 
 * [Chain Broker](https://chainbroker.io/)
-* [MalwareTech](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
-* [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
-* [VirusBtn](https://www.youtube.com/user/virusbtn)
+* [Crypto Investor Tiers Master Sheet](https://docs.google.com/spreadsheets/d/1saqKNeo9pSl-m_Xa9jVpFyPfg8faCXn6lZ3TEtTKz5Y/edit#gid=0)
+* [Crypto VC](https://docs.google.com/spreadsheets/d/120dZxsQtrjjgR35Wxt-uzYaoy6-OuuvDty81UDfuqhA/edit#gid=1251228490)
+* [a16z Screener](https://messari.io/screener/a16z-A3B6E65F)
 * [Intro to WinDBG](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
 * [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
