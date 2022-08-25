@@ -208,6 +208,7 @@ Content
 * [Alpha Dashboard](https://jbln-crypto.notion.site/jbln-crypto/alpha-dashboard-7a1a844780a14ded9a1940931a076543)
 * [Immersion Den](https://immersionden.xyz/)
 
+
 ## Funds
 
 *Resources*
@@ -216,10 +217,8 @@ Content
 * [Crypto Investor Tiers Master Sheet](https://docs.google.com/spreadsheets/d/1saqKNeo9pSl-m_Xa9jVpFyPfg8faCXn6lZ3TEtTKz5Y/edit#gid=0)
 * [Crypto VC](https://docs.google.com/spreadsheets/d/120dZxsQtrjjgR35Wxt-uzYaoy6-OuuvDty81UDfuqhA/edit#gid=1251228490)
 * [a16z Screener](https://messari.io/screener/a16z-A3B6E65F)
-* [Intro to WinDBG](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
-* [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
-* [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
-* [MalwareAnalysisHedgehog](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [Alameda Screener](https://messari.io/screener/alameda-research-portfolio-AA952B81)
+* [~300 US focused Web3 VC Funds List](https://docs.google.com/spreadsheets/d/1MvVLkUng7dfzgBHsnTjYwpXwmDUWdzCnlHfGsld3cLk/edit#gid=0)
 
 
 ## Practice
