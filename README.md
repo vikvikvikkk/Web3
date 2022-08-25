@@ -8,7 +8,7 @@ Content
     - [Funds](#funds)
     - [Tokenomics](#tokenomics)
     - [DeFi](#defi)
-    - [Binary Format](#binary-format)
+    - [Arbitrage, MEV, On-Chain](#arbitrage-mev-onchain)
     - [Disassemblers](#disassemblers)
     - [Binary Analysis](#binary-analysis)
     - [Bytecode Analysis](#bytecode-analysis)
@@ -121,6 +121,7 @@ Content
 * [Transition to web3: a guide for non-technical roles](https://guidetoweb3.xyz/)
 * [Going full-time in crypto](https://koopxyz.notion.site/going-full-time-in-crypto-ae5a87183702414d8db348634f3a2b7f)
 
+
 ## Mix Of Everything
 
 *Tools & Websites*
@@ -216,7 +217,6 @@ Content
 * [ZenLedger](https://www.zenledger.io/)
 
 
-
 ## Funds
 
 *Resources*
@@ -249,6 +249,7 @@ Content
 * [Intro to Tokenomics Resources](https://docs.google.com/document/d/1gTPIQMLVcv_OQ8flblVTCWWfrGadQNxZXNZTvDh6iKA/edit?mode=html)
 * ["DeFi Tokenomics That Actually Work"](https://twitter.com/puntium/status/1552670248070832129)
 * [De-Fi 101: Tokens](https://twitter.com/SalomonCrypto/status/1543330112900239360?s=20&t=2AIp7GXZkfBhCqXj8SAkIQ)
+
 
 ## DeFi
 
@@ -328,7 +329,8 @@ Content
 * [33 Useful Tools](https://twitter.com/shivsakhuja/status/1522502309556604928)
 * [Criffy](https://criffy.com/)
 
-## Binary Format
+
+## Arbitrage, MEV, On-Chain
 
 *Binary Format Tools*
 
@@ -342,6 +344,7 @@ Content
 * [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
 * [file](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/file.1.html) - File information
 * [codesign](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) - Code signing information usage: codesign -dvvv filename
+
 
 ## Disassemblers/Decompilers
 
@@ -359,6 +362,7 @@ Content
 * [Retdec](https://retdec.com/)
 * [Snowman](https://derevenets.com/)
 
+
 ## Binary Analysis
 
 *Binary Analysis Resources*
@@ -367,6 +371,7 @@ Content
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+
 
 ## Bytecode Analysis
 
@@ -377,6 +382,7 @@ Content
 * [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
 * [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
 
+
 ## Import Reconstruction
 
 *Import Reconstruction Tools*
@@ -384,6 +390,7 @@ Content
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [Scylla](https://github.com/NtQuery/Scylla)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+
 
 ## Dynamic Analysis
 
@@ -409,6 +416,7 @@ Content
 * [fs_usage](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/fs_usage.1.html) - report system calls and page faults related to filesystem activity in real-time.  File I/O: fs_usage -w -f filesystem 
 * [dmesg](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html) - display the system message buffer
 
+
 ## Debugging
 
 *Debugging Tools*
@@ -427,6 +435,7 @@ Content
 * [qira](http://qira.me/)
 * [unicorn](https://github.com/unicorn-engine/unicorn)
 
+
 ## Mac Decrypt
 
 *Mac Decrypting Tools*
@@ -436,6 +445,7 @@ Content
 * [Class-Dump](http://stevenygard.com/projects/class-dump/) - use deprotect option 
 * [readmem](https://github.com/gdbinit/readmem) - OS X Reverser's process dumping tool
 
+
 ## Document Analysis
 
 *Document Analysis Tools*
@@ -443,6 +453,7 @@ Content
 * [Ole Tools](http://www.decalage.info/python/oletools)
 * [Didier's PDF Tools](http://blog.didierstevens.com/programs/pdf-tools/)
 * [Origami](https://github.com/cogent/origami-pdf)
+
 
 ## Scripting
 
@@ -458,6 +469,7 @@ Content
 * [pefile Python Libray](https://github.com/erocarrera/pefile)
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts)
 
+
 ## Android
 
 *Android tools*
@@ -467,6 +479,7 @@ Content
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+
 
 ## Yara
 
