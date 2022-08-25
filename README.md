@@ -70,6 +70,7 @@ Content
 * [Decentralization Reading List](https://hackmd.io/@wr417h/r1W9N9zO9)
 * [Ten Places To Learn And Earn In Web3](https://medium.com/coinmonks/ten-places-to-learn-and-in-in-web3-b37fae5ac78d)
 * [Springer](https://link.springer.com/)
+* [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524)
 * [NoSleep Reads](https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b)
 * [Monday DeFi Market Alpha](https://docs.google.com/document/d/165IbUhkabquj3tL0LruLCnhhUXXTN5pWFDdtr-J7Cmg/edit?mode=html#)
 * [Airtable Reading List](https://airtable.com/shr2ixMcHCXLjZ4M6/tblMsFhcoHFiDByGj)
