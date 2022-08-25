@@ -5,7 +5,7 @@ Content
 - [Web3 Non-Tech](#web3-non-tech)
     - [Learn & Jobs Resources](#learn-and-jobs-resources)
     - [Mix Of Everything](#mix-of-everything)
-    - [Channels](#channels)
+    - [Funds](#funds)
     - [Practice](#practice)
     - [Hex Editors](#hex-editors)
     - [Binary Format](#binary-format)
@@ -202,22 +202,17 @@ Content
 * [Ethereum Gas Tracker](https://etherscan.io/gastracker)
 * [Disperse](https://disperse.app/)
 * [Optical Finance](https://www.optical.finance/)
-* [Chain Broker](https://chainbroker.io/)
 * [Crypto Projects Watchlist](https://shuennnyyy.notion.site/Crypto-Projects-Watchlist-3d438827f20245daabde8b93d2707564)
 * [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
 * [The Daily Ape](https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e)
 * [Alpha Dashboard](https://jbln-crypto.notion.site/jbln-crypto/alpha-dashboard-7a1a844780a14ded9a1940931a076543)
 * [Immersion Den](https://immersionden.xyz/)
-* [Chain Broker](https://chainbroker.io/)
-* [Chain Broker](https://chainbroker.io/)
-* [Chain Broker](https://chainbroker.io/)
-* [Chain Broker](https://chainbroker.io/)
 
-## Channels
+## Funds
 
-*Binary Analysis Channels*
+*Resources*
 
-* [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+* [Chain Broker](https://chainbroker.io/)
 * [MalwareTech](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
 * [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
 * [VirusBtn](https://www.youtube.com/user/virusbtn)
