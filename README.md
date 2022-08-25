@@ -65,6 +65,7 @@ Content
 * [Based.Builders](https://based.builders/)
 * [Crypto Startup School by a16z](https://a16z.com/crypto-startup-school/)
 * [arXiv](https://arxiv.org/)
+* [Thread With Resources](https://twitter.com/g0xbt/status/1528394224168837120)
 * [Decentralized Thoughts](https://decentralizedthoughts.github.io/start-here/)
 * [Decentralization Reading List](https://hackmd.io/@wr417h/r1W9N9zO9)
 * [Ten Places To Learn And Earn In Web3](https://medium.com/coinmonks/ten-places-to-learn-and-in-in-web3-b37fae5ac78d)
