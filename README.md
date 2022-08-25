@@ -8,7 +8,7 @@ Content
     - [Funds](#funds)
     - [Tokenomics](#tokenomics)
     - [DeFi](#defi)
-    - [Arbitrage, MEV, On-Chain](#arbitrage-mev-onchain)
+    - [Arbitrage, MEV, On-Chain](#arbitrage-mev-on-chain)
     - [Disassemblers](#disassemblers)
     - [Binary Analysis](#binary-analysis)
     - [Bytecode Analysis](#bytecode-analysis)
