@@ -332,13 +332,13 @@ Content
 
 ## Arbitrage, MEV, On-Chain
 
-*Binary Format Tools*
+*Arbitrage & MEV Resources*
 
-* [CFF Explorer](http://www.ntcore.com/exsuite.php)
-* [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
-* [Detect It Easy](http://ntinfo.biz/)
-* [PeStudio](http://www.winitor.com/)
-* [PEiD](https://tuts4you.com/download.php?view.398)
+* [EigenPhi](https://eigenphi.io/)
+* [Monetory](https://monetory.io/)
+* [MEV Explore](https://explore.flashbots.net/)
+* [Transaction Decoder](https://etherscan.io/tx-decoder?tx=)
+* [Zeromev](https://www.zeromev.org/)
 * [PPEE](https://www.mzrst.com/)
 * [MachoView](https://github.com/gdbinit/MachOView)
 * [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
