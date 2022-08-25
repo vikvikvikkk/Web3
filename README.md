@@ -184,7 +184,7 @@ Content
 * [Disperse](https://disperse.app/)
 * [Optical Finance](https://www.optical.finance/)
 * [Chain Broker](https://chainbroker.io/)
-* [Chain Broker](https://chainbroker.io/)
+* [Crypto Projects Watchlist](https://shuennnyyy.notion.site/Crypto-Projects-Watchlist-3d438827f20245daabde8b93d2707564)
 * [Chain Broker](https://chainbroker.io/)
 * [Chain Broker](https://chainbroker.io/)
 * [Chain Broker](https://chainbroker.io/)
