@@ -7,7 +7,7 @@ Content
     - [Mix Of Everything](#mix-of-everything)
     - [Funds](#funds)
     - [Tokenomics](#tokenomics)
-    - [Hex Editors](#hex-editors)
+    - [DeFi](#defi)
     - [Binary Format](#binary-format)
     - [Disassemblers](#disassemblers)
     - [Binary Analysis](#binary-analysis)
@@ -242,14 +242,31 @@ Content
 * ["DeFi Tokenomics That Actually Work"](https://twitter.com/puntium/status/1552670248070832129)
 * [De-Fi 101: Tokens](https://twitter.com/SalomonCrypto/status/1543330112900239360?s=20&t=2AIp7GXZkfBhCqXj8SAkIQ)
 
-## Hex Editors
+## DeFi
 
-*Hex Editors*
+*List Of Tools*
 
-* [HxD](https://mh-nexus.de/en/hxd/)
-* [010 Editor](http://www.sweetscape.com/010editor/)
-* [Hex Workshop](http://www.hexworkshop.com/)
-* [HexFiend](http://ridiculousfish.com/hexfiend/)
+* [Coindix](https://coindix.com/)
+* [Uniswap](https://uniswap.org/)
+* [1inch](https://app.1inch.io/)
+* [Curve](https://curve.fi/)
+* [Sushi](https://www.sushi.com/)
+* [Bancor](https://app.bancor.network/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
+* [Hiew](http://www.hiew.ru/)
 * [Hiew](http://www.hiew.ru/)
 
 ## Binary Format
