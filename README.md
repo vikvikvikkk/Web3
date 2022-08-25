@@ -175,9 +175,9 @@ Content
 * [A Curated List Of Crypto Project Trackers And Analytics Dashboards](https://github.com/denisnazarov/awesome-crypto-trackers)
 * [2022-2023 Unlocks](https://docs.google.com/spreadsheets/d/12NTncX1nztrOFkwtgmozd6b9hkoOMX6F_I1_QkUEK9Y/edit#gid=0)
 * [Blockchain Onboarding](https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/edit#gid=1141583017)
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Coinlist Token Price Calculator](https://docs.google.com/spreadsheets/d/10h37p7987c-0QCJcVZ4k0CYRgoB0mHhGsqZ_xlxCUi8/edit#gid=596606421)
+* [Stablecoin Strategy And Risk Adjustment](https://docs.google.com/spreadsheets/d/1JlX9Tm37sx7LPvaLyOm_aTlPuiy_eVjrYkQi2KPFGRU/edit#gid=720085313)
+* [Coingecko Coin List](https://docs.google.com/spreadsheets/d/1fG530UPjxoBkAYs9CnuMYjoLno21bZpq_7ijEYRTG5o/edit#gid=163031310)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 
