@@ -284,7 +284,7 @@ Content
 
 *More Useful Resources*
 
-* [Blockchain Bridges Mega Spreadsheet](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
+* [DeFi Toolkit by @gweicz](https://hackmd.io/@gweicz/defi-toolkit)
 * [Bridgooooooors](https://docs.google.com/spreadsheets/u/1/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/htmlview?pru=AAABfpgt8Vk*FQKIlSzyejx522FoNPCf3w#gid=0)
 * [More Bridges](https://app.decommas.io/bridges)
 * [Moooore](https://glimmer-hovercraft-39e.notion.site/Bridges-List-7829592792a9478c9bcb57c8a696c9e2)
