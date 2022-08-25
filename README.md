@@ -252,7 +252,7 @@ Content
 * [Curve](https://curve.fi/)
 * [Sushi](https://www.sushi.com/)
 * [Bancor](https://app.bancor.network/)
-* [Hiew](http://www.hiew.ru/)
+* [Hop Exchange](https://hop.exchange/)
 * [Hiew](http://www.hiew.ru/)
 * [Hiew](http://www.hiew.ru/)
 * [Hiew](http://www.hiew.ru/)
