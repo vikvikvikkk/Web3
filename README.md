@@ -178,6 +178,10 @@ Content
 * [Coinlist Token Price Calculator](https://docs.google.com/spreadsheets/d/10h37p7987c-0QCJcVZ4k0CYRgoB0mHhGsqZ_xlxCUi8/edit#gid=596606421)
 * [Stablecoin Strategy And Risk Adjustment](https://docs.google.com/spreadsheets/d/1JlX9Tm37sx7LPvaLyOm_aTlPuiy_eVjrYkQi2KPFGRU/edit#gid=720085313)
 * [Coingecko Coin List](https://docs.google.com/spreadsheets/d/1fG530UPjxoBkAYs9CnuMYjoLno21bZpq_7ijEYRTG5o/edit#gid=163031310)
+* [Decentralized Tools (And More)](https://joshcs.xyz/detools#6147615e9c7d4ce0b24f7ec2e9691137)
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 
