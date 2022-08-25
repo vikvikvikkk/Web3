@@ -1,6 +1,6 @@
 # web3-non-tech    
 
-Content  
+Navigation  
 
 - [Web3 Non-Tech](#web3-non-tech)
     - [Learn & Jobs Resources](#learn-and-jobs-resources)
@@ -378,6 +378,22 @@ Content
 * [Flash Boys | Arbitrage DAO](https://medium.com/@bneiluj/flash-boys-arbitrage-dao-c0b96d094f93)
 * [Arbitraging Between DEXes And CEXes For Fun & Profit](https://perpprotocol.mirror.xyz/oQ35WjxHnNYl90xRizczEAY3V1sHVHViNs9RNkJIWAw)
 * ["I Earned $1.4M In Arbitrage Profits On Solana In The Last 5 Months. Here Is How I did It"](https://twitter.com/firefly_sol/status/1530105059375300608?s=21&t=j0OVsrxjbCJSypB1w9ZwVA)
+* ["The Enemy Of Your Enemy Is NOT Your Friend"](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
+* [The 0 to 1 Guide For MEV](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
+* [Advanced MultiSwap: How to Better Arbitrage With Solidity](https://soliditydeveloper.com/multiswap-advanced)
+* ["MEV Is An Often Misunderstood Term, But It’s Also Highly Important"](https://twitter.com/Figment_io/status/1554614380683296769)
+* [$3.2M Profit Swapping $WBTC And $WETH, Costing $2K](https://twitter.com/Eigenphi/status/1554241082841387009)
+* ["Funny Long Tail MEV Bot](https://twitter.com/bertcmiller/status/1554153079406206984)
+* [MEV, QUIC, QoS, Fee Markets](https://twitter.com/oralabs_/status/1529499132720820225)
+* [Analyzing and Preventing Sandwich Attacks in Ethereum](https://pub.tik.ee.ethz.ch/students/2021-FS/BA-2021-07.pdf)
+* [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/abs/2003.03810)
+* [Get Up To Speed On Maximum Extractable Value](https://github.com/0xalpharush/awesome-MEV-resources)
+* [Awesome Miner Extractable Value](https://github.com/Dogetoshi/MEV/blob/main/README.md)
+* [MEV Wiki](https://www.mev.wiki/)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
+* [TxStreet](https://txstreet.com/v/eth-btc)
 * [TxStreet](https://txstreet.com/v/eth-btc)
 * [TxStreet](https://txstreet.com/v/eth-btc)
 * [TxStreet](https://txstreet.com/v/eth-btc)
