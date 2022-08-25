@@ -3,7 +3,7 @@
 Content  
 
 - [Web3 Non-Tech](#web3-non-tech)
-    - [Web3 Learn & Jobs Resources](#web3-learn-and-jobs-resources)
+    - [Learn & Jobs Resources](#learn-and-jobs-resources)
     - [Mix Of Everything](#mix-of-everything)
     - [Channels](#channels)
     - [Practice](#practice)
@@ -23,7 +23,7 @@ Content
 
 - - -
 
-## Web3 Learn & Jobs Resources
+## Learn & Jobs Resources
 
 *Web3 Jobs Websites*
 
