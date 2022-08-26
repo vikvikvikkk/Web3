@@ -10,8 +10,8 @@ Navigation
     - [DeFi](#defi)
     - [Arbitrage, MEV, On-Chain](#arbitrage-mev-on-chain)
     - [NFTs](#nfts)
-    - [Binary Analysis](#binary-analysis)
-    - [Bytecode Analysis](#bytecode-analysis)
+    - [Drops](#drops)
+    - [DAOs](#daos)
     - [Import Reconstruction](#import-reconstruction)
     - [Dynamic Analysis](#dynamic-analysis)
     - [Debugging](#debugging)
@@ -476,6 +476,7 @@ Navigation
 * [Interesting Thread](https://twitter.com/blockanalia/status/1533070217122746373?s=21&t=MITiUUqJJSaqiL2St5Ec9g)
 * [On chain analysis with Nansen](https://twitter.com/blocksaurus1152/status/1555402723201552385)
 * [Nansen YT](https://www.youtube.com/c/Nansen-ai)
+* [How to create your own NFT alpha "group" using ](https://twitter.com/nellimkopi/status/1509551793625178117?s=20&t=RY-l_goc7G6u0TnTE_51EQ)
 * ["How to Become a Nansen Scout"](https://www.youtube.com/watch?v=G5FJDk9jlz8&list=PLzlKDMydBYYTB9CBWFK4UKQPugacajKkc&index=22&t=10s)
 * [Follow the Smart Money with Nelson Lim](https://www.youtube.com/watch?v=bKRfIaoCbzI&list=PLzlKDMydBYYTB9CBWFK4UKQPugacajKkc&index=20)
 
@@ -563,23 +564,52 @@ Navigation
 
 *Useful*
 
+* [Metaversed](https://metaversed.net/about)
+* [NFT Analyst Starter Pack](https://github.com/a16z/nft-analyst-starter-pack)
+* [NFT Focused web3 Directory: no/low-code apps, listings, launchpads, markets](https://docs.google.com/spreadsheets/d/1K9vTUOh-cdKWLR9hvpH0taorlQOQ_jPEF9FJM8TpLsw/edit#gid=0)
+* [Airtable With Resources](https://airtable.com/shrvLR21bMljyKouK/tbl2LjVThGf1M1xxl)
+* [The Drop](https://thedrop.beehiiv.com/)
+* [Github Topics](https://github.com/topics/minting-nfts)
+* [NFTTrack Handbook](https://mirror.xyz/nfttrack.eth/6T-4NjVH0m0k3wfpTUbd_SPSvURz2nQp8L4qfu8g9JI)
+* [A curated list for you to learn everything about NFTs](https://github.com/selfishprimate/curated-nft-resources)
+* [A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software](https://github.com/gianni-dalerta/awesome-nft)
+* [NFT Resources](https://twitter.com/mrdavediamond/status/1506615317166198786)
+* [The NFT Starter Pack: Tools for Anyone to Analyze NFTs](https://a16z.com/2022/03/18/nft-starter-pack-analyze-data-metadata-build-tools/)
+* [NFT Whale Wallet List](https://docs.google.com/spreadsheets/d/1GlsjKN4vaD-OF4nfBfG5zueVgatyYZPCkNIP2GVVnuw/edit#gid=0)
+* [Moonbirds Backstage](https://mirror.xyz/0x1de6EeC2c08830BbEC7884F1Fc6b502521Ae2e54/nN80Dc4q71QzcONAtavEr8VVmMRyCBYIMYsuF2jrBqc)
+* [Defining "NFT" in historical context](https://mirror.xyz/chainleft.eth/MzPWRsesC9mQflxlLo-N29oF4iwCgX3lacrvaG9Kjko)
+* ["Why I'm confident that 3 of the top 4 most profitable NFT trader wallets are owned by the same person/entity"](https://twitter.com/nansen_intern/status/1546087077825024000?t=86PL8NLMKFjzlDsV508ipw&s=19)
+* [The Future of NFTs](https://www.decentralised.co/p/nfts-not-just-for-trading)
+* [Sudoswap - Thread](https://twitter.com/blocmatesdotcom/status/1559399856984051712)
+* [NFT P/L Tracker](https://docs.google.com/spreadsheets/d/1sKeM0SZsLmxc1RnO4UxOlS-B7W6_PmbBQZDMKJx_xrE/edit#gid=2003731991)
+
+## Drops
+
+*Tools & Resources*
+
+* [DappRadar](https://dappradar.com/hub/airdrops)
+* [Airdrop Alert](https://airdropalert.com/)
+* [ICO Drops](https://icodrops.com/)
+* [All airdrop rumors](https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/htmlview?pru=AAABfHLVTHo*YrRpQWhgX56AxNrdDo79Pw#)
+* [Olimpio Thread](https://twitter.com/OlimpioCrypto/status/1522934570848509952?t=Pex3kRe97_rRO4a4u60uTA&s=19)
+* [DefiCalendar Airdrop Status Check](https://docs.google.com/spreadsheets/d/1agcpqrYDJg0cX12jC7nrtrbC20aZxweub0M6fBUVPUI/edit#gid=0)
+* [Retroactive Airdrop](https://docs.google.com/spreadsheets/d/16ByD37z7RyU_BakwA6hk_jC6su5292X_iYZhclb_ny0/edit#gid=1874033862)
 
 
-## Binary Analysis
+## DAOs
 
-*Binary Analysis Resources*
+*Tools & Resources*
 
-* [Mobius Resources](http://www.msreverseengineering.com/research/)
-* [z3](https://z3.codeplex.com/)
-* [bap](https://github.com/BinaryAnalysisPlatform/bap)
-* [angr](https://github.com/angr/angr)
-
-
-## Bytecode Analysis
-
-*Bytecode Analysis Tools*
-
-* [dnSpy](https://github.com/0xd4d/dnSpy)
+* [DAO Central](https://daocentral.com/)
+* [Risk DAO](https://bad-debt.riskdao.org/)
+* [CurateDAO](https://www.curatedao.xyz/)
+* [DAO Modular Tools](https://app.weje.io/b/-Mq2x1aa5L36VU6H1LF9/SKVZt3zMpSe8AOxrxkN0c04vIoC2)
+* [Developer DAO](https://blog.developerdao.com/)
+* [DeepDAO](https://deepdao.io/organizations)
+* [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
+* [Bytecode Viewer](https://bytecodeviewer.com/)
+* [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
+* [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
 * [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
