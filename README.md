@@ -465,6 +465,46 @@ Navigation
 * [MEV Job Board](https://github.com/flashbots/mev-job-board)
 * ["A thread of all my MEV related threads in chronologic order"](https://twitter.com/bertcmiller/status/1402665992422047747)
 
+*Nansen*
+
+* [Nansen](https://pro.nansen.ai/)
+* [Nansen Portfolio](https://portfolio.nansen.ai/)
+* [Nansen Connect](https://connect.nansen.ai/)
+* [Nansen Strategies](https://docs.google.com/document/d/1dfqA97D_hQF15elsAoV1moBAEkU39a_MqxO7VL3GjUc/edit?mode=html)
+* ["How-To-Nansen" Guide](https://twitter.com/nellimkopi/status/1503573664918228998?s=20&t=XE5T9esf97eAc8xq5dhIvA)
+* [Understanding Smart Money](https://twitter.com/nansen_ai/status/1539233533364883456)
+* [Interesting Thread](https://twitter.com/blockanalia/status/1533070217122746373?s=21&t=MITiUUqJJSaqiL2St5Ec9g)
+* [On chain analysis with Nansen](https://twitter.com/blocksaurus1152/status/1555402723201552385)
+* [Nansen YT](https://www.youtube.com/c/Nansen-ai)
+* ["How to Become a Nansen Scout"](https://www.youtube.com/watch?v=G5FJDk9jlz8&list=PLzlKDMydBYYTB9CBWFK4UKQPugacajKkc&index=22&t=10s)
+* [Follow the Smart Money with Nelson Lim](https://www.youtube.com/watch?v=bKRfIaoCbzI&list=PLzlKDMydBYYTB9CBWFK4UKQPugacajKkc&index=20)
+
+*Dune*
+
+* [Dune](https://dune.com/home)
+* [Dune Dashboards](https://dune.com/browse/dashboards)
+* [Yuga Labs Dashboard](https://dune.com/sealaunch/Yuga-Labs-Ecosystem-BAYC-Crypto-Punks-and-Other)
+* [NFT Market Overview](https://dune.com/hildobby/NFTs)
+* [OpenSea - Dashboard](https://dune.com/PierreYves_Gendron/opensea---metrics)
+* [Top NFT Collections](https://dune.com/cryptuschrist/Top-100-NFT-Projects)
+* [Opensea Top Traders (and Collections they buy)](https://dune.com/bitereum/Opensea-Top-Traders)
+* [NFT Top Collections Floor/Median Price and Volume](https://dune.com/sealaunch/NFT-Top-Collections)
+* [NFT Project Dashboard](https://dune.com/rantum/NFT-Collection-Dashboard)
+* [NFT Overview Dashboard](https://dune.com/rantum/NFT-Sales-Overview-by-Project)
+* [Useful NFTs Dashboards](https://twitter.com/nft_god/status/1541538186223951872?s=21)
+* [Dune Snippets](https://github.com/sambacha/dune-snippets)
+* [Guide to Dune Analytics](https://twitter.com/cryptoPothu/status/1552158669759848450)
+* [Thread about filtering method and the yielded results](https://twitter.com/hildobby_/status/1489706897259175948)
+* [USDT USDC Bans](https://dune.com/kwizzles/usdt-usdc-bans)
+* [USDT - Banned Addresses](https://dune.com/phabc/usdt---banned-addresses)
+* [USDT USDC Bans](https://dune.com/kwizzles/usdt-usdc-bans)
+* [USDT/USDC Banned](https://dune.com/k06a/usdt-banned)
+* ["This is how Dune makes blockchain data analytics-ready so that users can use it for creating dashboards. A thread"](https://twitter.com/sebastian_wag/status/1545431781779939328)
+* [Wallet Transaction & Gas Fees Dashboard](https://dune.com/kevdnlol/Transaction-Breakdown)
+* [Unofficial Python Library for Dune Analytics](https://github.com/itzmestar/duneanalytics)
+* [Dune To CSV](https://gist.github.com/rafaelugolini/063360764295b31b34e176de33e80171)
+* [Web3 Data Guide: Sudoswap](https://ath.mirror.xyz/K-S_Mwhj7osTBqN-AOWbCmfNn9TZViEkzICCmK-oObM)
+
 
 ## Disassemblers/Decompilers
 
