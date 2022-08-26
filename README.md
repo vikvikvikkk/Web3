@@ -3,7 +3,7 @@
 Navigation  
 
 - [Web3 Non-Tech](#web3-non-tech)
-    - [Learn & Jobs Resources](#learn-jobs-resources)
+    - [Learn and Jobs Resources](#learn-and-jobs-resources)
     - [Mix Of Everything](#mix-of-everything)
     - [Funds](#funds)
     - [Tokenomics](#tokenomics)
@@ -23,7 +23,7 @@ Navigation
 
 - - -
 
-## Learn & Jobs Resources
+## Learn and Jobs Resources
 
 *Web3 Jobs Websites*
 
