@@ -9,7 +9,7 @@ Navigation
     - [Tokenomics](#tokenomics)
     - [DeFi](#defi)
     - [Arbitrage, MEV, On-Chain](#arbitrage-mev-on-chain)
-    - [Disassemblers](#disassemblers)
+    - [NFTs](#nfts)
     - [Binary Analysis](#binary-analysis)
     - [Bytecode Analysis](#bytecode-analysis)
     - [Import Reconstruction](#import-reconstruction)
@@ -506,9 +506,9 @@ Navigation
 * [Web3 Data Guide: Sudoswap](https://ath.mirror.xyz/K-S_Mwhj7osTBqN-AOWbCmfNn9TZViEkzICCmK-oObM)
 
 
-## Disassemblers/Decompilers
+## NFTs
 
-*Disassemblers/Decompilers*
+*Tools & Websites*
 
 * [Ghidra](https://ghidra-sre.org/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
