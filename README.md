@@ -13,13 +13,8 @@ Navigation
     - [Drops](#drops)
     - [DAOs](#daos)
     - [Media and Social](#media-and-social)
-    - [Dynamic Analysis](#dynamic-analysis)
-    - [Debugging](#debugging)
-    - [Mac Decrypt](#mac-decrypt)
-    - [Document Analysis](#document-analysis)
-    - [Scripting](#scripting)
-    - [Android](#android)
-    - [Yara](#yara)
+    - [GameFi](#gamefi)
+    - [Trading](#trading)
 
 - - -
 
@@ -791,7 +786,7 @@ Navigation
 * [Social Trends](https://app.santiment.net/dashboards/labs/trends)
 
 
-## Dynamic Analysis
+## GameFi
 
 *Dynamic Analysis Tools*
 
@@ -816,7 +811,7 @@ Navigation
 * [dmesg](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html) - display the system message buffer
 
 
-## Debugging
+## Trading
 
 *Debugging Tools*
 
@@ -833,59 +828,3 @@ Navigation
 * [lldb](http://lldb.llvm.org/)
 * [qira](http://qira.me/)
 * [unicorn](https://github.com/unicorn-engine/unicorn)
-
-
-## Mac Decrypt
-
-*Mac Decrypting Tools*
-
-* [Cerbero Profiler](http://cerbero-blog.com/?p=1311) - Select all -> Copy to new file
-* [AppEncryptor](https://github.com/AlanQuatermain/appencryptor) - Tool for decrypting
-* [Class-Dump](http://stevenygard.com/projects/class-dump/) - use deprotect option 
-* [readmem](https://github.com/gdbinit/readmem) - OS X Reverser's process dumping tool
-
-
-## Document Analysis
-
-*Document Analysis Tools*
-
-* [Ole Tools](http://www.decalage.info/python/oletools)
-* [Didier's PDF Tools](http://blog.didierstevens.com/programs/pdf-tools/)
-* [Origami](https://github.com/cogent/origami-pdf)
-
-
-## Scripting
-
-*Scripting*
-
-* [IDA Python Src](https://github.com/idapython/src)
-* [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
-* [Using IDAPython to Make your Life Easier](http://researchcenter.paloaltonetworks.com/tag/idapython/)
-* [Introduction to IDA Python](https://tuts4you.com/download.php?view.3229)
-* [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
-* [IDA Plugin Contest](https://www.hex-rays.com/contests/)
-* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list)
-* [pefile Python Libray](https://github.com/erocarrera/pefile)
-* [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts)
-
-
-## Android
-
-*Android tools*
-
-* [Android Developer Studio](http://developer.android.com/sdk/index.html)
-* [APKtool](http://ibotpeaches.github.io/Apktool/)
-* [dex2jar](https://github.com/pxb1988/dex2jar)
-* [Bytecode Viewer](https://bytecodeviewer.com/)
-* [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
-
-
-## Yara
-
-*Yara Resources*
-
-* [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
-* [Cheatsheet](https://gist.github.com/tylerha97/eeabc765e9befad9b80a)
-* [yarGen](https://github.com/Neo23x0/yarGen)
-* [yabin](https://github.com/AlienVault-OTX/yabin)
-* [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
