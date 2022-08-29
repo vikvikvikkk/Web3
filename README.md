@@ -563,6 +563,9 @@ Navigation
 * [Cryptowatch](https://cryptowat.ch/nft-prices)
 * [NFTBank](https://nftbank.ai/)
 * [NFTgo](https://nftgo.io/)
+* [Genie](https://www.genie.xyz/)
+* [Claimyoursol](https://claimyoursol.com/)
+* [WGMI](https://wgmi.io/dashboard)
 
 *Useful*
 
@@ -584,6 +587,8 @@ Navigation
 * [The Future of NFTs](https://www.decentralised.co/p/nfts-not-just-for-trading)
 * [Sudoswap - Thread](https://twitter.com/blocmatesdotcom/status/1559399856984051712)
 * [NFT P/L Tracker](https://docs.google.com/spreadsheets/d/1sKeM0SZsLmxc1RnO4UxOlS-B7W6_PmbBQZDMKJx_xrE/edit#gid=2003731991)
+* [Project List](https://docs.google.com/spreadsheets/d/1C0RAZFvsRsZhLTWCAQdZiTaiCaT5Nbyc3wBHfH3r5Xk/htmlview#gid=0)
+* [X2Y2-NFT-Marketplace](https://dune.com/votan/X2Y2-NFT-Marketplace)
 
 ## Drops
 
