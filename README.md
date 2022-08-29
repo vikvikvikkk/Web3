@@ -12,7 +12,7 @@ Navigation
     - [NFTs](#nfts)
     - [Drops](#drops)
     - [DAOs](#daos)
-    - [Import Reconstruction](#import-reconstruction)
+    - [Media and Social](#media-and-social)
     - [Dynamic Analysis](#dynamic-analysis)
     - [Debugging](#debugging)
     - [Mac Decrypt](#mac-decrypt)
@@ -636,13 +636,47 @@ Navigation
 * [Blockchain Governance—A New Way of Organizing Collaborations?](https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1379)
 
 
-## Import Reconstruction
+## Media and Social
 
-*Import Reconstruction Tools*
+*Blogs & Podcasts*
 
+* [Cointelegraph](https://cointelegraph.com/)
+* [Rekt News](https://rekt.news/)
+* [Sov's Edition](https://sovs.notion.site/Blogs-News-Aggregators-e23cccd322ef4ab8af0014fea0c3bc7c)
+* [Sov's Thread](https://twitter.com/sovereignsignal/status/1503801602041282564)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [Scylla](https://github.com/NtQuery/Scylla)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
+* [Scylla](https://github.com/NtQuery/Scylla)
+* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
+* 
 
 
 ## Dynamic Analysis
