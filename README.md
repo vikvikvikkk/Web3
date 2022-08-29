@@ -777,7 +777,7 @@ Navigation
 * [Botometr](https://botometer.osome.iu.edu/)
 * [Check Fake Followers, Unfollowers, Track Followers Growth And Analyze The Followers Of Any Twitter Account](https://www.followeraudit.com/)
 * [Compare Twitter Friends And Followers](https://tweepdiff.com/)
-* [Discord ID Creation Date Checker]](https://hugo.moe/discord/discord-id-creation-date.html)
+* [Discord ID Creation Date Checker](https://hugo.moe/discord/discord-id-creation-date.html)
 * [How Many Of Your Followers Are Real?](https://www.twitteraudit.com/)
 * [Moivre — Nansen for Twitter](https://moivre.xyz/)
 * [Orbit](https://orbit.livasch.com/)
