@@ -759,6 +759,37 @@ Navigation
 * [Rekt Plebs](https://t.me/rektplebs)
 * [CryptoQuant](https://t.me/cryptoquant_official)
 
+*Twitter*
+
+* [Twitter Lists & Tools](https://sovs.notion.site/Twitter-Lists-Tools-a16b34f0c09d4200b7d1318fcd0d1d0e)
+* [The Alpha Archives Lists](https://thealpharchives.com/twitter-lists)
+
+*Events*
+
+* [Ethereum Events](https://docs.google.com/spreadsheets/d/1NEu_FCc1hnGAuRgPmbXXpf0h2lCrCOlMKbbFEqgkVDQ/edit#gid=0)
+* [Crypto Events](https://docs.google.com/spreadsheets/d/1J8C3cLbruoKEPrvoO1ym4RGE2VX-WU4HyXsM7H1GqWM/edit#gid=0)
+* [ETHGlobal](https://ethglobal.com/)
+* [Crypto Events [by CNC]](https://docs.google.com/spreadsheets/d/1KtyFTb_W282bQ1xoVA5rlTwTDz3QfhswWIVpXhpbQIc/edit#gid=0)
+* [Crypto Events](https://docs.google.com/spreadsheets/d/1JuWioID1fPQFl4jeCWXxhaPdPSQhRJFpgcGZT7eLr5E/edit#gid=0)
+
+*Tools & Resources*
+
+* [Botometr](https://botometer.osome.iu.edu/)
+* [Check Fake Followers, Unfollowers, Track Followers Growth And Analyze The Followers Of Any Twitter Account](https://www.followeraudit.com/)
+* [Compare Twitter Friends And Followers](https://tweepdiff.com/)
+* [Discord ID Creation Date Checker]](https://hugo.moe/discord/discord-id-creation-date.html)
+* [How Many Of Your Followers Are Real?](https://www.twitteraudit.com/)
+* [Moivre — Nansen for Twitter](https://moivre.xyz/)
+* [Orbit](https://orbit.livasch.com/)
+* [Profile Changes From The People You Follow On Twitter Or Other Social Networks](http://spoonbill.io/)
+* [The Discord Enhancement Project](https://betterdiscord.app/)
+* [Twitter Analysis](https://en.whotwi.com/)
+* [Wayback Machine](https://web.archive.org/)
+* [Analysis of crypto Twitter from 2013 to 2022](https://klapka.substack.com/p/analysis-of-crypto-twitter-from-2013?s=w)
+* [hive.one](https://hive.one/)
+* [How to use advanced search Twitter](https://help.twitter.com/en/using-twitter/twitter-advanced-search)
+* [Social Trends](https://app.santiment.net/dashboards/labs/trends)
+
 
 ## Dynamic Analysis
 
