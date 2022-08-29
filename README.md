@@ -788,43 +788,19 @@ Navigation
 
 ## GameFi
 
-*Dynamic Analysis Tools*
+*Tools & Resources*
 
-* [ProcessHacker](http://processhacker.sourceforge.net/)
-* [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
-* [Process Monitor](https://technet.microsoft.com/en-us/sysinternals/processmonitor)
-* [Autoruns](https://technet.microsoft.com/en-us/sysinternals/bb963902)
-* [Noriben](https://github.com/Rurik/Noriben)
-* [API Monitor](http://www.rohitab.com/apimonitor)
-* [iNetSim](http://www.inetsim.org/)
-* [Wireshark](https://www.wireshark.org/download.html)
-* [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
-* [netzob](https://www.netzob.org/)
-* [Volatility](https://github.com/volatilityfoundation/volatility)
-* [Dumpit](http://www.moonsols.com/products/)
-* [LiME](https://github.com/504ensicsLabs/LiME)
-* [Cuckoo](https://www.cuckoosandbox.org/)
-* [Objective-See Utilities](https://objective-see.com/products.html)
-* [XCode Instruments](https://developer.apple.com/xcode/download/) - XCode Instruments for Monitoring Files and Processes [User Guide](https://developer.apple.com/library/watchos/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) 
-* [dtrace](http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/) - sudo dtruss = strace [dtrace recipes](http://mfukar.github.io/2014/03/19/dtrace.html)
-* [fs_usage](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/fs_usage.1.html) - report system calls and page faults related to filesystem activity in real-time.  File I/O: fs_usage -w -f filesystem 
-* [dmesg](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html) - display the system message buffer
+* [Top Play To Earn Coins by Market Cap](https://www.coingecko.com/en/categories/play-to-earn)
+* [Metaguild](https://metaguild.notion.site/f320a0c6a6924f2fae49e6d23d127fb8?v=42efdd0feae1417680620a9d47a13657)
+* [Megathread on Web3 Gaming](https://twitter.com/bottomd0g/status/1512473932431257600)
+* [Economics of Play to Earn Gaming Economy](https://econteric.com/p2e-report/)
 
 
 ## Trading
 
-*Debugging Tools*
+*Tools & Resources*
 
-* [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
-* [OllyDbg v1.10](http://www.ollydbg.de/)
-* [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
-* [OllySnD](https://tuts4you.com/download.php?view.2061)
-* [Olly Shadow](https://tuts4you.com/download.php?view.6)
-* [Olly CiMs](https://tuts4you.com/download.php?view.1206)
-* [Olly UST_2bg](https://tuts4you.com/download.php?view.1206)
-* [x64dbg](http://x64dbg.com/#start)
-* [gdb](https://www.gnu.org/software/gdb/)
-* [vdb](https://github.com/vivisect/vivisect)
-* [lldb](http://lldb.llvm.org/)
-* [qira](http://qira.me/)
-* [unicorn](https://github.com/unicorn-engine/unicorn)
+* [10k challenge summary thread](https://twitter.com/Crypto__Ken/status/1536722971833909249)
+* ["Most will charge you $1000+ for a good trading course. Here is one I've made for free"](https://twitter.com/koroushak/status/1557382235614896128?s=28&t=DI7yzqw-_a3ltESehpou8A)
+* [Interesting Thread](https://twitter.com/Nakamotolisk/status/1557679806619197440)
+* [An Introduction to Limit Order Books](https://www.machow.ski/posts/2021-07-18-introduction-to-limit-order-books/)
