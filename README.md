@@ -691,6 +691,7 @@ Navigation
 * [web3 weekly](https://a16zcrypto.substack.com/)
 * [Wisdom of DeFi by EigenPhi](https://eigenphi.substack.com/)
 * [Wrong A Lot](https://wrongalot.substack.com/)
+* [The Variable](https://0xfoobar.substack.com/)
 * [Alchemy](https://www.youtube.com/channel/UCtvTdPZWUwW4whk9CLlCBug)
 * [Bankless](https://www.youtube.com/channel/UCAl9Ld79qaZxp9JzEOwd3aA)
 * [Coffeezilla](https://www.youtube.com/channel/UCFQMnBA3CS502aghlcr0_aw)
