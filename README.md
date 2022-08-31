@@ -2,7 +2,7 @@
 
 Navigation  
 
-- [Web3 Non-Tech](#web3-non-tech)
+- [Web3](#web3)
     - [Learn and Jobs Resources](#learn-and-jobs-resources)
     - [Mix Of Everything](#mix-of-everything)
     - [Funds](#funds)
