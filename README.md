@@ -49,6 +49,7 @@ Navigation
 * [Code4rena](https://code4rena.com/)
 * [LlamaoGrants](https://wiki.defillama.com/wiki/LlamaoGrants)
 * [Layer3](https://beta.layer3.xyz/earn)
+* [QuillAudits] (https://www.quillaudits.com/wagsi-grants-programme)
 
 *Read & Learn*
 
@@ -98,6 +99,7 @@ Navigation
 * [Tweets](https://arpitingle.notion.site/arpitingle/64d12c6b859d4872972f76da2f3caddf?v=d188d771df344a2c85237e8c7e13e189)
 * [A Curated List Of Cryptography Papers, Articles, Tutorials And Howtos](https://github.com/pFarb/awesome-crypto-papers)
 * [Basic Skill Tree For Those Looking To Get Into Crypto](https://twitter.com/Darrenlautf/status/1434877372700901384)
+* [Smart Contract Auditor Roadmap](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap)
 
 *Useful*
 
@@ -122,6 +124,7 @@ Navigation
 *Tools & Websites*
 
 * [ETH Dashboard](https://ethdashboard.com/)
+* [QuillAudits](https://www.quillaudits.com/smart-contract-audit)
 * [Chainlist](https://chainlist.org/)
 * [Token Approvals - Etherscan](https://cn.etherscan.com/tokenapprovalchecker)
 * [Alchemy](https://www.alchemy.com/)
@@ -253,6 +256,7 @@ Navigation
 *List Of Tools*
 
 * [Coindix](https://coindix.com/)
+* [QuillAudits Smart Contract Auditing](https://www.quillaudits.com/smart-contracts-auditing-tools)
 * [Uniswap](https://uniswap.org/)
 * [1inch](https://app.1inch.io/)
 * [Curve](https://curve.fi/)
@@ -641,6 +645,7 @@ Navigation
 *Blogs, YT, Podcasts*
 
 * [Cointelegraph](https://cointelegraph.com/)
+* [QuillAudits](https://www.youtube.com/@QuillAcademy)
 * [Rekt News](https://rekt.news/)
 * [Sov's Edition](https://sovs.notion.site/Blogs-News-Aggregators-e23cccd322ef4ab8af0014fea0c3bc7c)
 * [Sov's Thread](https://twitter.com/sovereignsignal/status/1503801602041282564)
@@ -710,6 +715,7 @@ Navigation
 *Telegram Chats & Channels*
 
 * [CIA Officer’s List](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
+* [QuilLAudits](https://t.me/quillaudits_official)
 * [Telegram Channels](https://www.notion.so/Telegram-Channels-875ef69267da4a269828182b3d5d5dc1)
 * [Officer CIA](https://t.me/officer_cia)
 * [Shualpha](https://t.me/Shualpha)
