@@ -39,6 +39,7 @@ Navigation
 * [Web3 Opps](https://t.me/cryptotesters_jobs)
 * [Daily Ape Board](https://t.me/dailyapeboard)
 * [Sov's Jobs](https://sovs.notion.site/Jobs-7062a940fb8548edb075171881a5d2b9)
+* [JobsInBlockchain](https://jobsinblockchain.com)
 
 *Grants & Bug Bounties & Quests*
 
