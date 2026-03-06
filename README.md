@@ -123,6 +123,7 @@ Navigation
 
 * [ETH Dashboard](https://ethdashboard.com/)
 * [Chainlist](https://chainlist.org/)
+* [Chartscout](https://chartscout.io/)
 * [Token Approvals - Etherscan](https://cn.etherscan.com/tokenapprovalchecker)
 * [Alchemy](https://www.alchemy.com/)
 * [CoinTool](https://cointool.app/dashboard)
