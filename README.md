@@ -203,6 +203,7 @@ Navigation
 * [The Daily Ape](https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e)
 * [Alpha Dashboard](https://jbln-crypto.notion.site/jbln-crypto/alpha-dashboard-7a1a844780a14ded9a1940931a076543)
 * [Immersion Den](https://immersionden.xyz/)
+* [HostDeFi Token Scanner](https://hostdefi.com/scan)
 
 *Taxes*
 
